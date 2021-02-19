@@ -35,14 +35,39 @@ body {
 }
 
 
-p{
+.header p{
     font-family: 'Mulish', sans-serif;
 }
 
-p strong{
-    color: #FC913F;
+.header p strong{
+    color: #F44E5E;
 }
 
 ul{
     background-color: #EDC709;
+}
+
+.nav{
+    line-height: 50px;
+    text-align: center;
+
+}
+
+.nav a{
+    color: #EDC709;
+    text-decoration: none;
+}
+
+
+.nav li{
+    font-size: 20px;
+    display: inline-block;
+    height: 50px;
+    margin: 2px 20px;
+    background-color: #3C3C3C;
+    padding: 0 5px;
+}
+
+.nav li:hover{
+    background-color: #F44E5E;
 }
