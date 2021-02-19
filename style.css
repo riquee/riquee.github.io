@@ -71,3 +71,9 @@ ul{
 .nav li:hover{
     background-color: #F44E5E;
 }
+
+#skills ul{ 
+    padding: 2px;
+}
+
+#skills
