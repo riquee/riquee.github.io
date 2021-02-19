@@ -75,12 +75,12 @@ ul{
     background-color: #F44E5E;
 }
 
-#skills ul{ 
+.list-style ul{ 
     list-style: none;
     padding: 10px 5px;
 }
 
-#skills ul li{
+.list-style ul li{
     margin: 10px 0;
     font-size: 20px;
     font-weight: 900;
