@@ -1,10 +1,22 @@
 body {
+    width: 70%;
+    margin: auto;
     background-color: #3C3C3C;
 }
-h1{
-    font-family: 'Montserrat',sans-serif;
+
+.header{
+    background-color: #EDC709;
 }
 
+
+.header h1{
+    font-family: 'Montserrat',sans-serif;
+    text-align: center;
+}
+
+.header img{
+    width: 250px;
+}
 p{
     font-family: 'Mulish', sans-serif;
 }
