@@ -45,7 +45,7 @@ h2{
     color: #F44E5E;
 }
 
-ul{
+ul,ol{
     background-color: #EDC709;
 }
 
@@ -75,13 +75,22 @@ ul{
     background-color: #F44E5E;
 }
 
-.list-style ul{ 
+.list-style ul,ol{ 
     list-style: none;
     padding: 10px 5px;
 }
 
-.list-style ul li{
+.list-style ul,ol li{
     margin: 10px 0;
     font-size: 20px;
     font-weight: 900;
+}
+
+.list-style a{
+    color: #2C808B;
+}
+
+.list-style a:hover{
+    background-color: #2C808B;
+    color: #3C3C3C;
 }
