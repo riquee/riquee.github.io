@@ -8,3 +8,7 @@ h1{
 p{
     font-family: 'Mulish', sans-serif;
 }
+
+p strong{
+    color: #FC913F;
+}
