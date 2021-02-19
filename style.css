@@ -1,0 +1,64 @@
+body {
+    background-color: #5499C7;
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: #154360;
+    text-align: center;
+    height: 80px;
+    margin-bottom: 100px;
+    padding-top: 20px;
+}
+
+.header h1 {
+    font-family: 'Roboto';
+    font-weight: 1;
+    font-size: 50px;
+    margin-top: 0;
+    color: cornsilk;
+}
+
+h2{
+    font-family: 'Marvel';
+    font-size: 30px;
+}
+
+
+.links-style{
+    list-style: none;
+    background-color: burlywood;
+    
+}
+
+#iam div:first-of-type{
+    background-color: #F9EBEA;
+    padding: 10px;
+    width: fit-content;
+    float: left;
+    margin: 30px 20px;
+}
+
+#iam div:first-of-type,#iam div:first-of-type img{
+    border-radius: 50px;
+}
+#iam div:last-of-type{
+    width: 750px;
+}
+
+#iam div:last-of-type p{
+    line-height: 30px;
+}
+
+#facts{
+    clear: both;
+}
+
+#skills li:nth-child(odd){
+    background-color: cadetblue;
+}
+
+ul{
+    list-style: none;
+}
