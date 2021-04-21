@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 
 class ButtonType extends Component {
   typePokemon() {
-    let { setPokemons, setIndex, index } = this.props.values;
-    index = 0;
-    setIndex(index);
+    const { setPokemons, setIndex } = this.props.values;
+    setIndex(0);
     setPokemons(this.props.type);
   }
 

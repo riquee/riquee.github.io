@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Button extends Component {
   nextPokemon() {
     let { pokemons, setIndex, index } = this.props.values;
-    pokemons[index + 1] ? setIndex(index + 1) : setIndex((index = 0));
+    pokemons[index + 1] ? setIndex(index + 1) : setIndex(0);
   }
 
   render() {
