@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/riquee/riquee.github.io/static/js/main.a0335465.chunk.js",
+    "main.js.map": "/riquee/riquee.github.io/static/js/main.a0335465.chunk.js.map",
+    "runtime-main.js": "/riquee/riquee.github.io/static/js/runtime-main.d79524b4.js",
+    "runtime-main.js.map": "/riquee/riquee.github.io/static/js/runtime-main.d79524b4.js.map",
+    "static/js/2.a552656b.chunk.js": "/riquee/riquee.github.io/static/js/2.a552656b.chunk.js",
+    "static/js/2.a552656b.chunk.js.map": "/riquee/riquee.github.io/static/js/2.a552656b.chunk.js.map",
+    "index.html": "/riquee/riquee.github.io/index.html",
+    "static/js/2.a552656b.chunk.js.LICENSE.txt": "/riquee/riquee.github.io/static/js/2.a552656b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d79524b4.js",
+    "static/js/2.a552656b.chunk.js",
+    "static/js/main.a0335465.chunk.js"
+  ]
+}
